@@ -79,7 +79,7 @@ body {
 
 ::selection {
 	/* Set background color for selected text */
-	background: var(--nc-ac-1);
+	background: var(--nc-lk-2);
 	color: var(--nc-ac-tx);
 }
 
