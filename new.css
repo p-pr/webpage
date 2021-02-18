@@ -80,7 +80,7 @@ body {
 ::selection {
 	/* Set background color for selected text */
 	background: var(--nc-lk-2);
-	color: var(--nc-ac-tx);
+	color: var(--nc-bg-2);
 }
 
 h1,h2,h3,h4,h5,h6 {
