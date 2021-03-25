@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Science journalist based in Bangalore, India">
+    <title>Pratik Pawar</title>
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+	<link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
+	<link rel="stylesheet" type="text/css" href="new.css">
+</head>
+<body>
+    <header>
+        <h1>Pratik Pawar</h1>
+        <p>Science journalist based in Bangalore, India</p>
+    </header>
+<h2>Writing Experience</h2>
+<li><ul><li><strong>8 Feb 2018 &#8211; Seedcamp Sessions: David Mytton on SaaS funding</strong><br><em>Seedcamp Podcast: This Much I Know, by Carlos Espinal</em><br>Listen on: <a href="https://soundcloud.com/seedcamp/seedcamp-sessions-david-mytton-on-saas-funding">Soundcloud</a>, <a href="https://overcast.fm/+EFaoTnBvs">Overcast</a>, <a href="https://archive.org/details/seedcamp-sessions-david-mytton-on-saas-funding">Archive.org</a></li><li><strong>24 Mar 2017 &#8211; Server Density with David Mytton</strong><br><em>Google Cloud Platform Podcast</em><br>Listen on: <a href="https://www.gcppodcast.com/post/episode-69-server-density/">Google</a>, <a href="https://www.youtube.com/watch?v=6GPf9-exeAw">YouTube</a>, <a href="https://archive.org/details/server-density-with-david-mytton-gcp-podcast">Archive.org</a></li></ul>
