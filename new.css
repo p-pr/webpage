@@ -164,10 +164,6 @@ header {
 	/* This sets the right and left margins to cancel out the body's margins. It's width is still the same, but the background stretches across the page's width. */
 
 	margin: -2rem calc(0px - (50vw - 50%)) 2rem;
-
-	#main-header.et-fixed-header {
-	box-shadow: 0 3px 0 rgba(102, 102, 102, 0.1) !important;
-	}
 	
 	/* Shorthand for:
 
