@@ -165,6 +165,10 @@ header {
 
 	margin: -2rem calc(0px - (50vw - 50%)) 2rem;
 
+	#main-header.et-fixed-header {
+	box-shadow: 0 3px 0 rgba(102, 102, 102, 0.1) !important;
+	}
+	
 	/* Shorthand for:
 
 	margin-top: -2rem;
