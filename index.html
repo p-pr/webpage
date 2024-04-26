@@ -99,5 +99,21 @@ Republished by: <a href="https://www.npr.org/sections/goatsandsoda/2022/02/06/10
 <footer>Hand-coded in HTML/CSS and hosted on GitHub</footer>
 <script data-goatcounter="https://p-pr.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+
+<script>
+    // Wait for the page to load
+    window.addEventListener('load', function() {
+      // Get the current URL
+      var url = new URL(window.location.href);
+
+      // Remove all UTM parameters
+      url.searchParams.delete('utm_source');
+      url.searchParams.delete('utm_medium');
+      url.searchParams.delete('utm_campaign');
+
+      // Update the URL in the browser's address bar
+      window.history.replaceState({}, document.title, url.toString());
+    });
+  </script>
 </body>
 </html>
